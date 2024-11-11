@@ -69,10 +69,11 @@ https://pgm4.onrender.com
 
 3.You will see the Flask application displaying a counter that you can increment by clicking the button.
 
-##Contribution
+## Contribution
+
 If you want to contribute to this project, you can follow these steps:
 
-1.Fork the repository.
-2.Create a new branch with your changes: git checkout -b feature/my-new-feature.
-3.Make the necessary changes and update the documentation.
-4.Send a pull request explaining your changes.
+1. Fork the repository.
+2. Create a new branch with your changes: `git checkout -b feature/my-new-feature`.
+3. Make the necessary changes and update the documentation.
+4. Send a pull request explaining your changes.
